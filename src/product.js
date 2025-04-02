@@ -1,0 +1,23 @@
+export const Products = [
+  {"id": 1, "name": "Pilgrim Vitamin C serum", "description": "For Daily Brightness"},
+  { "id": 2, "name": "L'Oreal Hyaluronic Acid Serum", "description": "For Deep Hydration" },
+  { "id": 3, "name": "Neutrogena Retinol Night Cream", "description": "For Anti-Aging Benefits" },
+  { "id": 4, "name": "The Ordinary Niacinamide 10% + Zinc", "description": "For Acne and Oil Control" },
+  { "id": 5, "name": "Mamaearth Ubtan Face Wash", "description": "For Tan Removal and Glow" },
+  { "id": 6, "name": "Minimalist Alpha Arbutin Serum", "description": "For Hyperpigmentation Reduction" },
+  { "id": 7, "name": "Garnier Bright Complete Serum", "description": "For Skin Brightening" },
+  { "id": 8, "name": "Plum Green Tea Face Wash", "description": "For Oily and Acne-Prone Skin" },
+  { "id": 9, "name": "Wow Skin Science Aloe Vera Gel", "description": "For Skin and Hair Nourishment" },
+  { "id": 10, "name": "Biotique Morning Nectar Moisturizer", "description": "For Deep Moisturization" },
+  { "id": 11, "name": "Lakme 9 to 5 CC Cream", "description": "For Instant Glow and Coverage" },
+  { "id": 12, "name": "Himalaya Neem Face Wash", "description": "For Pimple-Free Skin" },
+  { "id": 13, "name": "Dot & Key Watermelon Gel Moisturizer", "description": "For Lightweight Hydration" },
+  { "id": 14, "name": "Re'equil Oil-Free Mattifying Moisturizer", "description": "For Oily and Sensitive Skin" },
+  { "id": 15, "name": "Forest Essentials Kumkumadi Night Cream", "description": "For Youthful and Glowing Skin" },
+  { "id": 16, "name": "Dr. Sheth's Vitamin C & E Moisturizer", "description": "For Skin Brightening and Hydration" },
+  { "id": 17, "name": "Olay Regenerist Micro-Sculpting Cream", "description": "For Firm and Hydrated Skin" },
+  { "id": 18, "name": "MCaffeine Coffee Face Serum", "description": "For Revitalizing and Brightening Skin" },
+  { "id": 19, "name": "Aroma Magic Under Eye Cream", "description": "For Reducing Dark Circles" },
+  { "id": 20, "name": "Kaya Youth Oxy-Infusion Face Serum", "description": "For Oxygen Boost and Radiance" },
+  { "id": 21, "name": "Lotus Herbals WhiteGlow Night Cream", "description": "For Overnight Skin Repair" }
+];
